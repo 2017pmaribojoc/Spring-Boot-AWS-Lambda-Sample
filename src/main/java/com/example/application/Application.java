@@ -1,4 +1,4 @@
-package com.scraper.sec.application;
+package com.example.application;
 
 import org.springframework.boot.autoconfigure.SpringBootApplication;
 import org.springframework.cloud.function.context.FunctionalSpringApplication;

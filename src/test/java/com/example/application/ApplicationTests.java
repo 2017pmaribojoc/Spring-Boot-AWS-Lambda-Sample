@@ -1,4 +1,4 @@
-package com.scraper.sec.application;
+package com.example.application;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.beans.factory.annotation.Autowired;
